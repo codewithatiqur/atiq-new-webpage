@@ -1,0 +1,63 @@
+body{
+    background-color: #FFB6B6;
+    font-family: montserrat; 
+}
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+nav{
+
+}
+
+label{
+    padding:  100px;
+    position: relative;
+   top: 50px;
+}
+nav ul{
+    float: right;
+    margin-right: 30px;
+}
+nav ul li{
+    display: inline;
+    line-height: 80px;
+    margin: 0 20px;
+}
+nav ul li a{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+   text-transform: capitalize;
+   position: relative;
+   top: 50px;
+}
+.content{
+    margin-top: 30%;
+    color: #000000;
+    max-width: 620px;
+    padding: 90px;
+    padding-top: 0;
+}
+.content p{
+    font-size: 25px;
+}
+h2{
+    font-size: 50px;
+    /* font-style: initial; */
+}
+h1{
+    font-size: 40px;
+   font-style:unset;
+}
+.box1{
+    background-color:  rgb(209, 14, 79);
+    background-image: url('WhatsApp_Image_2024-07-18_at_09.41.48_f5cb3fc3-removebg-preview.png');
+    height: 450px;
+    border: 2px solid #FFB6B6;
+    background-size: cover;
+    border-radius: 300px;
+}
+
